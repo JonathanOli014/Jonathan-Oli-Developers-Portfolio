@@ -95,7 +95,7 @@ a.active, a:hover{
     width: 95%;
     height: fit-content;
     float: left;
-    background-image: linear-gradient(29deg, transparent, transparent, gold);
+    background-image: linear-gradient(29deg, transparent, transparent, #1d374e);
     border: 1px solid #1d374e;
     animation: none;
 }
