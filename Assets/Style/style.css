@@ -15,7 +15,7 @@ h1.index{
     font-size: 4vw;
 }
 span.name{
-    color: #ffd700
+    color: #1d374e
 }
 .containerIndex{
     align-self: center;
@@ -81,7 +81,7 @@ nav ul li a{
     font-family:"Courier" , monospace;
 }
 a.active, a:hover{
-    background: #ffd700;
+    background: #1d374e;
     transition: .5s;
     font-weight: bold;
     color: black
@@ -96,7 +96,7 @@ a.active, a:hover{
     height: fit-content;
     float: left;
     background-image: linear-gradient(29deg, transparent, transparent, gold);
-    border: 1px solid #ffd700;
+    border: 1px solid #1d374e;
     animation: none;
 }
 img.profile{
@@ -118,7 +118,7 @@ img.profile{
 }
 .h1Title{
     padding-left: 20px;
-    color: #ffd700;
+    color: #1d374e;
     font-size: 3.1vw;
     font-weight: bolder;
     font-family:"Courier" , monospace;
@@ -132,7 +132,7 @@ img.profile{
 }
 .aboutHypen{
     margin-left: 40px;
-    color: #ffd700;
+    color: #1d374e;
     font-size: 1.2vw;
     font-weight: bolder;
     font-family:"Courier" , monospace;
@@ -157,7 +157,7 @@ img.profile{
 .skillsLabel{
     width: fit-content;
     padding-left: 50px;
-    color: #ffd700;
+    color: #1d374e;
     font-size: 2.5vw;
     font-weight: bolder;
     font-family:"Courier" , monospace;
@@ -169,7 +169,7 @@ img.profile{
     height: fit-content;
     background-color: transparent;
     border-radius: 12px;
-    border: 2px solid #ffd700;
+    border: 2px solid #1d374e;
 }
 .skillSetPercentage{
     text-align: right;
@@ -183,7 +183,7 @@ img.profile{
 .html{
     width: 90%;
     height: fit-content;
-    background-color: #ffd700;
+    background-color: #1d374e;
     border-radius: 12px;
 }
 .skillsSublabel{
@@ -195,13 +195,13 @@ img.profile{
 .css{
     width: 70%;
     height: fit-content;
-    background-color: #ffd700;
+    background-color: #1d374e;
     border-radius: 12px;
 }
 .java{
     width: 60%;
     height: fit-content;
-    background-color: #ffd700;
+    background-color: #1d374e;
     border-radius: 12px;
 }
 .Label{
@@ -226,7 +226,7 @@ img.profile{
     margin-right: 5%;
     float: left;
     margin-bottom: 30px;
-    border: 1px solid #ffd700;
+    border: 1px solid #1d374e;
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(25vw, 25vw));
     column-gap: 30px;
@@ -346,7 +346,7 @@ img.profile{
     width: 7px;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: #ffd700;
+    background-color: #1d374e;
     border-radius: 12px;
 }
 .contactMain{
@@ -400,7 +400,7 @@ img.profile{
 }
 .contactContainer a:hover{
     background-color: transparent;
-    color: #ffd700;
+    color: #1d374e;
     text-decoration: none;
 }
 .iconbg{
@@ -408,7 +408,7 @@ img.profile{
     width: 3.5vw;
     height: 3.5vw;
     border-radius: 50%;
-    background-color: #ffd700;
+    background-color: #1d374e;
     margin-left: 5px;
     margin-top: 1vw;
 }
@@ -501,7 +501,7 @@ img.profile{
     border-radius: 50%;
 }
 .facebook:hover, .github:hover, .instagram:hover{
-    background-color: #ffd700;
+    background-color: #1d374e;
     cursor: pointer;
     transition: .5s;
     -webkit-transform: scale(1.1);
