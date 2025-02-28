@@ -300,6 +300,13 @@ img.profile{
     border-radius: 12px;
     background-color: white; */
 }
+.gridNine{
+    width: 25vw;
+    height: 25vw;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    background-color: white; */
+}
 .gridOne img{
     border-radius: 12px;
     width: 100%;
@@ -349,7 +356,13 @@ img.profile{
     height:100%;
     object-fit:inherit;
 }
-.gridOne img:hover,.gridTwo img:hover, .gridThree img:hover, .gridFour img:hover, .gridFive img:hover, .gridSix img:hover, .gridSeven img:hover, .gridEight img:hover{
+.gridNine img{
+    border-radius: 12px;
+    width: 100%;
+    height:100%;
+    object-fit:inherit;
+}
+.gridOne img:hover,.gridTwo img:hover, .gridThree img:hover, .gridFour img:hover, .gridFive img:hover, .gridSix img:hover, .gridSeven img:hover, .gridEight img:hover, .gridNine img:hover{
     opacity: 1;
     transition: .5s;
     -webkit-transform: scale(1.1);
