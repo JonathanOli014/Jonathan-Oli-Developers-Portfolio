@@ -157,7 +157,7 @@ img.profile{
 }
 .skillsLabel{
     width: fit-content;
-    padding-left: 50px;
+    padding-left: 10vw;
     color: #5790c1;
     font-size: 2.5vw;
     font-weight: bolder;
