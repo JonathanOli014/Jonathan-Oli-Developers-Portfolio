@@ -205,6 +205,20 @@ img.profile{
     background-color: #5790c1;
     border-radius: 12px;
 }
+
+.php{
+    width: 50%;
+    height: fit-content;
+    background-color: #5790c1;
+    border-radius: 12px;
+}
+
+.django{
+    width: 50%;
+    height: fit-content;
+    background-color: #5790c1;
+    border-radius: 12px;
+}
 .Label{
     margin-top: inherit;
     padding-left: 7vw;
