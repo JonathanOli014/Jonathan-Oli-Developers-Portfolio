@@ -119,7 +119,7 @@ img.profile{
 }
 .h1Title{
     padding-left: 20px;
-    color: #5790c1;
+    color: white;
     font-size: 3.1vw;
     font-weight: bolder;
     font-family:"Courier" , monospace;
@@ -158,7 +158,7 @@ img.profile{
 .skillsLabel{
     width: fit-content;
     padding-left: 10vw;
-    color: #5790c1;
+    color: white;
     font-size: 2.5vw;
     font-weight: bolder;
     font-family:"Courier" , monospace;
@@ -222,7 +222,7 @@ img.profile{
 .Label{
     margin-top: inherit;
     padding-left: 7vw;
-    color: #5790c1;
+    color: white;
     font-size: 2.5vw;
     font-weight: bolder;
     font-family:"Courier" , monospace;
