@@ -15,7 +15,7 @@ h1.index{
     font-size: 4vw;
 }
 span.name{
-    color: #1d374e
+    color: #665c53
 }
 .containerIndex{
     align-self: center;
@@ -81,7 +81,7 @@ nav ul li a{
     font-family:"Courier" , monospace;
 }
 a.active, a:hover{
-    background: #1d374e;
+    background: #665c53;
     transition: .5s;
     font-weight: bold;
     color: black
@@ -95,8 +95,8 @@ a.active, a:hover{
     width: 95%;
     height: fit-content;
     float: left;
-    background-image: linear-gradient(29deg, transparent, transparent, #1d374e);
-    border: 1px solid #1d374e;
+    background-image: linear-gradient(29deg, transparent, transparent, #665c53);
+    border: 1px solid #665c53;
     animation: none;
 }
 img.profile{
@@ -118,7 +118,7 @@ img.profile{
 }
 .h1Title{
     padding-left: 20px;
-    color: #1d374e;
+    color: #665c53;
     font-size: 3.1vw;
     font-weight: bolder;
     font-family:"Courier" , monospace;
@@ -132,7 +132,7 @@ img.profile{
 }
 .aboutHypen{
     margin-left: 40px;
-    color: #1d374e;
+    color: #665c53;
     font-size: 1.2vw;
     font-weight: bolder;
     font-family:"Courier" , monospace;
@@ -157,7 +157,7 @@ img.profile{
 .skillsLabel{
     width: fit-content;
     padding-left: 50px;
-    color: #1d374e;
+    color: #665c53;
     font-size: 2.5vw;
     font-weight: bolder;
     font-family:"Courier" , monospace;
@@ -169,7 +169,7 @@ img.profile{
     height: fit-content;
     background-color: transparent;
     border-radius: 12px;
-    border: 2px solid #1d374e;
+    border: 2px solid #665c53;
 }
 .skillSetPercentage{
     text-align: right;
@@ -183,7 +183,7 @@ img.profile{
 .html{
     width: 90%;
     height: fit-content;
-    background-color: #1d374e;
+    background-color: #665c53;
     border-radius: 12px;
 }
 .skillsSublabel{
@@ -195,13 +195,13 @@ img.profile{
 .css{
     width: 70%;
     height: fit-content;
-    background-color: #1d374e;
+    background-color: #665c53;
     border-radius: 12px;
 }
 .java{
     width: 60%;
     height: fit-content;
-    background-color: #1d374e;
+    background-color: #665c53;
     border-radius: 12px;
 }
 .Label{
@@ -226,7 +226,7 @@ img.profile{
     margin-right: 5%;
     float: left;
     margin-bottom: 30px;
-    border: 1px solid #1d374e;
+    border: 1px solid #665c53;
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(25vw, 25vw));
     column-gap: 30px;
@@ -346,7 +346,7 @@ img.profile{
     width: 7px;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: #1d374e;
+    background-color: #665c53;
     border-radius: 12px;
 }
 .contactMain{
@@ -400,7 +400,7 @@ img.profile{
 }
 .contactContainer a:hover{
     background-color: transparent;
-    color: #1d374e;
+    color: #665c53;
     text-decoration: none;
 }
 .iconbg{
@@ -408,7 +408,7 @@ img.profile{
     width: 3.5vw;
     height: 3.5vw;
     border-radius: 50%;
-    background-color: #1d374e;
+    background-color: #665c53;
     margin-left: 5px;
     margin-top: 1vw;
 }
@@ -501,7 +501,7 @@ img.profile{
     border-radius: 50%;
 }
 .facebook:hover, .github:hover, .instagram:hover{
-    background-color: #1d374e;
+    background-color: #665c53;
     cursor: pointer;
     transition: .5s;
     -webkit-transform: scale(1.1);
