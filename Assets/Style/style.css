@@ -22,7 +22,7 @@ span.name{
 }
 body.About, .Portfolio, .Contact, .Resume {
     color: white;
-    background-color: #262626;
+    background-color: rgb (5, 5, 5);
     height:fit-content;
     padding: 0;
     margin:0;
@@ -37,7 +37,7 @@ ul li{
     background-color: transparent;
 }
 nav{
-    background-color:#262626;
+    background-color:rgb (5, 5, 5);
     height: 5vw;
     width: 100%;
     position: fixed;
