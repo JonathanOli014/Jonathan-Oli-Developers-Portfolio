@@ -363,10 +363,11 @@ img.profile{
     object-fit:inherit;
 }
 .gridOne img:hover,.gridTwo img:hover, .gridThree img:hover, .gridFour img:hover, .gridFive img:hover, .gridSix img:hover, .gridSeven img:hover, .gridEight img:hover, .gridNine img:hover{
-    opacity: 1;
+/*     opacity: 1;
     transition: .5s;
     -webkit-transform: scale(1.1);
-    transform: scale(1.1);
+    transform: scale(1.1); */
+    border: 2px solid #5790c1;
 }
 ::-webkit-scrollbar{
     background: transparent;
