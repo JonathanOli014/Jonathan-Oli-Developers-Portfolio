@@ -106,6 +106,7 @@ img.profile{
     height: 25vw;
     border-radius: 50%;
     margin-top: 70px;
+    border: 1px solid #5790c1;
 }
 .InfoAbout1{
     position: inherit;
